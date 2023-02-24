@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Yichuan Sun, who have nothing to say.
+I'm Yichuan Sun, a dog cadet.
 <!--
 **YichuanSun/YichuanSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
