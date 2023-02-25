@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Yichuan Sun, a dog cadet.
+I'm Yichuan Sun, a dog cadet, have nothing to say.
 <!--
 **YichuanSun/YichuanSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Etran's GitHub stats](https://github-readme-stats.vercel.app/api?username=YichuanSun)](https://github.com/anuraghazra/github-readme-stats)
