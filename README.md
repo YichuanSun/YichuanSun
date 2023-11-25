@@ -1,5 +1,6 @@
-Hi there 👋
+### Hi there 👋
 I'm Yichuan Sun, a dog cadet, have nothing to say.
+
 <!--
 **YichuanSun/YichuanSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=YichuanSun&theme=calm&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YichuanSun&hide=html,css,Tcl,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+</div>
